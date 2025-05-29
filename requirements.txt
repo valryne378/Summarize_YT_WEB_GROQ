@@ -31,6 +31,6 @@ pytube
 numexpr
 huggingface_hub
 ffmpeg-python
-validators
+numexpr
 torch 
-youtube-transcript-api
+
